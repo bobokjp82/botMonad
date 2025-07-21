@@ -19,7 +19,7 @@ Supports multiple wallets, proxy rotation, randomized actions, and contract inte
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/retiraa/botMonad.git
+git clone https://github.com/bobokjp82/botMonad.git
 cd monad
 npm install
 node universalBot.js
