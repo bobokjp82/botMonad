@@ -11,8 +11,7 @@ Supports multiple wallets, proxy rotation, randomized actions, and contract inte
 - ✅ Proxy support via `https-proxy-agent`
 - ✅ Customizable cycles and delays
 - ✅ Auto wrap/unwrap WMON
-- ✅ Stake/unstake on Magma & aPriori
-- ✅ Izumi integration (placeholder)
+- ✅ Stake/unstake 
 
 ---
 
