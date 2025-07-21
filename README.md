@@ -21,6 +21,7 @@ Supports multiple wallets, proxy rotation, randomized actions, and contract inte
 ```bash
 git clone https://github.com/bobokjp82/botMonad.git
 cd botMonad
+npm install prompts ethers colors https-proxy-agent
 npm install
 node universalBot.js
 
